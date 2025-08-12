@@ -1,0 +1,15 @@
+# Core dependencies in requirements.txt
+Django
+djangorestframework
+djangorestframework-simplejwt
+django-cors-headers
+django-jazzmin
+python-dotenv
+Pillow
+drf-yasg  # For API documentation
+django-filter  # For filtering
+whitenoise
+gunicorn==21.2.0
+python-decouple
+dj-database-url
+psycopg2-binary
